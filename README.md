@@ -59,7 +59,7 @@ You can find me on Instagram [@plotform.art](https://www.instagram.com/plotform.
 
 ## My process
 
-1. **Design:** once I have a concept and composition and have decided on materials, colours and tools, I create drawings in Grasshopper (Rhino) using a combination of generative techniques, simulation and manual drawing and manipulation. I like to think of my process as a hacker-esque collaboration of human and machine with absolutely **no AI** at any stage.
+1. **Design:** once I have a concept and composition and have decided on materials, colours and tools, I create drawings in Grasshopper (Rhino) using a combination of generative techniques, simulation and manual drawing and manipulation. I like to think of my process as a hacker-esque collaboration of human and machine with **absolutely no AI at any stage**.
 2. **Convert to G-code:** my user objects turn curves into G-code for the plotter, handling pen up and down moves while also optimising plot order. Sometimes my art stays in the digital realm (e.g. animations), but more often than not I like to realise it into something physical.
 3. **Plot:** set-up each print and send G-code to the plotter. Usually ink on paper but can vary. For limited editions, I delete all GCode and Rhino/Grasshopper files once all editions are made as a guarentee they will forever be limited.
 
