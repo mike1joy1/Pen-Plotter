@@ -2,7 +2,7 @@
 
 A large-format (A1) pen plotter that I designed and built from scratch, running Klipper on a Raspberry Pi, with Grasshopper tools that turn curves into G-code for generative art. This repository contains the most important parts needed to understand and reproduce it: CAD files for the 3D-printed parts, the Klipper and Raspberry Pi configuration, test plots, and my Grasshopper objects.
 
-Work made with this plotter, including my *Forms* series of prints, was shown at the Woolwich Contemporary Print Fair 2025.
+Work made with this plotter from my *Forms* series of prints was shown at the Woolwich Contemporary Print Fair 2025.
 
 ![The plotter](Media/Plotter/20250408_150926.jpg)
 
