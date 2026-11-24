@@ -70,4 +70,4 @@ You can find me on Instagram [@plotform.art](https://www.instagram.com/plotform.
 
 Built by Dr Michael Joyce - [LinkedIn](https://www.linkedin.com/in/michael-joyce-badea)
 
-PhD in mathematics (computational geometry and simulation). Six years experience working in architecture firms and print research lab making tools for artists and architects. I mainly work on robotics, simulation and digital fabrication. Co-founder of [Advanced Clay Tooling](https://advancedclay.com/).
+PhD in mathematics (computational geometry and simulation). Six years experience working in an architecture firm and a print research lab making hardware and software tools for artists and architects. I mainly work with robotics, simulation and digital fabrication but have a variety of experience spanning many fields. Co-founder of [Advanced Clay Tooling](https://advancedclay.com/).
